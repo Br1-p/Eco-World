@@ -1,0 +1,33 @@
+body{
+	background-color: #09D4E8;
+    font-family: sans-serif
+}
+
+h1{
+	color: #22E57D;
+	font-family: impact;
+	font-size: 40px;
+	text-shadow: 2px 2px 0 #116E7D;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+ul {
+	width: fit-content;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.MWPtemperature {
+	width: 750px;
+	border-radius: 50px;
+	display: block;
+	margin: 0 auto;
+}
+
+img:hover {
+	opacity: 0.9;
+}

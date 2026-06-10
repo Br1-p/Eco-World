@@ -1,0 +1,23 @@
+body{
+	background-color: #09D4E8;
+    font-family: sans-serif
+}
+
+h1{
+	color: forestgreen;
+	text-align: center;
+	font-size: 60px;
+	text-shadow: 2px 2px 0 #15421F;
+	font-family: impact;
+}
+
+.BP {
+	width: 750px;
+	border-radius: 50px;
+	display: block;
+	margin: 0 auto;
+}
+
+img:hover {
+	opacity: 0.9;
+}
